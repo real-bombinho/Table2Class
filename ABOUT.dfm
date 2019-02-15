@@ -194,7 +194,7 @@ object AboutBox: TAboutBox
       Margins.Top = 2
       Margins.Right = 2
       Margins.Bottom = 2
-      Caption = 'Copyright 2017 real-bombinho'
+      Caption = 'Copyright 2017-2019 real-bombinho'
       IsControl = True
     end
     object Comments: TLabel
