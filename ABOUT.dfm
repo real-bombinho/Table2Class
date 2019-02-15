@@ -207,8 +207,9 @@ object AboutBox: TAboutBox
       Margins.Right = 2
       Margins.Bottom = 2
       Caption = 
-        'Creates clas and class body templates from database table.     h' +
-        'ttps://github.com/real-bombinho/Table2Class/'
+        'Creates class and class body templates from database table.' +     
+        #13 +
+        'https://github.com/real-bombinho/Table2Class/'
       WordWrap = True
       IsControl = True
     end
